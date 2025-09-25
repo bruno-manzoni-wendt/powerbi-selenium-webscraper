@@ -1,4 +1,4 @@
-# Powerbi Selenium Webscraper
+# PowerBI Selenium Webscraper
 A web scraper made with Python Selenium to extract data from a public Power BI tables.
 
 ## STAR SUMMARY
@@ -12,8 +12,8 @@ Action: Developed a Selenium-based web scraper to collect, parse, and structure 
 Result: Reduced data collection time from several hours of manual copy-paste to just a few minutes, while eliminating human error.
 
 ## Tech Stack
-Python
-Selenium
-Pandas
+- Python
+- Selenium
+- Pandas
 
 > **Disclaimer:** This repository contains scripts that have been modified to replace sensitive information with example placeholders for privacy and portfolio purposes.
