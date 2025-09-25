@@ -1,4 +1,4 @@
-# PowerBI Selenium Webscraper
+# Power BI Selenium Webscraper
 A web scraper made with Python Selenium to extract data from a public Power BI tables.
 
 ## STAR SUMMARY
