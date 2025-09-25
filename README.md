@@ -3,7 +3,7 @@ A web scraper made with Python Selenium to extract data from a public Power BI t
 
 ## STAR SUMMARY
 
-Situation: A public Power BI dashboard published by ANVISA contained two tables with valuable data on Authorized Supplement Ingredients, but there was no export option to download.
+Situation: A public Power BI dashboard published by [ANVISA](https://app.powerbi.com/view?r=eyJrIjoiNDU4Y2UxNmEtZjc0Yi00ZTkyLTk3N2EtZTEyZTI5MjdkNzQ2IiwidCI6ImI2N2FmMjNmLWMzZjMtNGQzNS04MGM3LWI3MDg1ZjVlZGQ4MSJ9&pageName=ReportSection%20Power%20BI%20Report%20Report%20powered%20by%20Power%20BI) contained two tables with valuable data on Authorized Supplement Ingredients, but there was no export option to download.
 
 Task: Build a Python solution to automate the data extraction of both tables.
 
