@@ -11,5 +11,9 @@ Action: Developed a Selenium-based web scraper to collect, parse, and structure 
 
 Result: Reduced data collection time from several hours of manual copy-paste to just a few minutes, while eliminating human error.
 
+## Tech Stack
+Python
+Selenium
+Pandas
 
 > **Disclaimer:** This repository contains scripts that have been modified to replace sensitive information with example placeholders for privacy and portfolio purposes.
